@@ -12,6 +12,7 @@ In this talk I focused on introducting Node.js. I cover things such as:
 - What projects you should use Node.js?
 - What projects you should not use Node.js?
 - How do you manage packages in Node.js?
+
 ... There are also some useful code examples to back up the fundamentals I cover on Node.js :).
 #### References:
 - [Introduction to Node.js with Ryan Dahl (The creator of Node.js)](https://www.youtube.com/watch?v=jo_B4LTHi3I)
